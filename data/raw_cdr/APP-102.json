@@ -1,0 +1,11 @@
+{
+    "application_id": "APP-102",
+    "applicant_name": "Rajiv Patel",
+    "gross_annual_income": 140000,
+    "declared_living_expenses": 1800,
+    "requested_loan_amount": 850000,
+    "property_valuation": 1060000,
+    "base_interest_rate": 0.0635,
+    "existing_debts_monthly": 1500,
+    "cdr_verified_expenses_monthly": 1850
+}

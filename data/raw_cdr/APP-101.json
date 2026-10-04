@@ -1,0 +1,11 @@
+{
+    "application_id": "APP-101",
+    "applicant_name": "Sarah Jenkins",
+    "gross_annual_income": 165000,
+    "declared_living_expenses": 2500,
+    "requested_loan_amount": 600000,
+    "property_valuation": 850000,
+    "base_interest_rate": 0.0635,
+    "existing_debts_monthly": 0,
+    "cdr_verified_expenses_monthly": 2450
+}

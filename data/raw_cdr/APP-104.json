@@ -1,0 +1,11 @@
+{
+    "application_id": "APP-104",
+    "applicant_name": "Emma Wright",
+    "gross_annual_income": 95000,
+    "declared_living_expenses": 2400,
+    "requested_loan_amount": 680000,
+    "property_valuation": 750000,
+    "base_interest_rate": 0.0635,
+    "existing_debts_monthly": 800,
+    "cdr_verified_expenses_monthly": 2500
+}

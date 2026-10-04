@@ -1,0 +1,11 @@
+{
+    "application_id": "APP-103",
+    "applicant_name": "Alex Chen",
+    "gross_annual_income": 150000,
+    "declared_living_expenses": 1600,
+    "requested_loan_amount": 700000,
+    "property_valuation": 900000,
+    "base_interest_rate": 0.0635,
+    "existing_debts_monthly": 0,
+    "cdr_verified_expenses_monthly": 3450
+}
