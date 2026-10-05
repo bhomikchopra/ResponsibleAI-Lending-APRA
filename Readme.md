@@ -8,7 +8,7 @@
 [![DuckDB](https://img.shields.io/badge/Ledger-DuckDB-yellow.svg)](https://duckdb.org/)
 [![Langfuse](https://img.shields.io/badge/Telemetry-Langfuse-black.svg)](https://langfuse.com/)
 
-An enterprise-grade, regulatory-compliant AI credit assessment engine and Human-in-the-Loop (HITL) underwriting console designed for Australian Authorised Deposit-taking Institutions (ADIs).
+An enterprise-grade, regulatory-compliant AI credit assessment engine and Human-in-the-Loop (HITL) underwriting console designed for Australian Authorised Deposit-taking Institutions (ADIs). This is an agentic solution with traceability and observability of how the agent assesses and takes decision which is in compliance with the DISR 10 AI Safety Guadrails.
 
 The platform enforces strict regulatory compliance under **APRA APG 223** (Residential Mortgage Lending), **APRA CPS 234** (Information Security), **ASIC RG 209** (Responsible Lending Conduct), and the **Privacy Act 1988**.
 
@@ -200,7 +200,7 @@ python -m test_scripts.test_graph
 Start the Streamlit application console[](start_span)[](end_span):
 
 ```zsh
-streamlit run src/ui/app_streamlit2.py
+streamlit run src/ui/main_app.py
 ```
 
 * **Local URL:** `http://localhost:8501`[](start_span)[](end_span)
